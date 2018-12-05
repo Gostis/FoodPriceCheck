@@ -1,0 +1,207 @@
+{
+    "foodItems": {
+      "name" : "test",
+      "products":
+        [{
+            "ID": 1,
+            "name": "Arla Mellanmjölk 1.5L 1.5%",
+            "size": {
+                "size": 1.5,
+                "unit": "Liter",
+                "short": "L"
+            },
+            "Category": {
+                "mainCategory": "Mejeri, ost & ägg",
+                "middleCategory": "Mjölk",
+                "underCategory": "Mellanmjölk"
+            },
+            "keywords": ["Grön", "Mjölk", "Pankakor"],
+            "ingredients": "MJÖLK, vitamin D. Lågpastöriserad.",
+            "imgsrc": "https://atgcdn-production.prod.vuitonline.com/online/18/350x350/7310865001818.jpg",
+            "eco": 0,
+            "brand": "Arla",
+            "origin": "Sverige"
+        },
+        {
+            "ID": 2,
+            "name": "Arla Mellanmjölk Ekologisk 1.5L 1.5%",
+            "size": {
+                "size": 1.5,
+                "unit": "Liter",
+                "short": "L"
+            },
+            "Category": {
+                "mainCategory": "Mejeri, ost & ägg",
+                "middleCategory": "Mjölk",
+                "underCategory": "Mellanmjölk"
+            },
+            "keywords": ["Eco", "Krav", "Eko", "Pankakor"],
+            "ingredients": "MJÖLK*, vitamin D. *KRAV- ekologisk ingrediens. Lågpastöriserad.",
+            "imgsrc": "https://atgcdn-production.prod.vuitonline.com/online/24/350x350/7310865062024.jpg",
+            "eco": 1,
+            "brand": "Arla",
+            "origin": "Sverige"
+        },
+        {
+            "ID": 3,
+            "name": "Nötfärs 5% 500g ICA",
+            "size": {
+                "size": 500,
+                "unit": "gram",
+                "short": "g"
+            },
+            "Category": {
+                "mainCategory": "Kött, fågel & fisk",
+                "middleCategory": "Köttfärs",
+                "underCategory": "Nötfärs"
+            },
+            "keywords": ["Ica", "Nötfärs", "färs", "Panbiff"],
+            "ingredients": "Förhållande mellan kollagen och köttprotein lägre än 12%. Fetthalt lägre än 5%",
+            "imgsrc": "https://atgcdn-production.prod.vuitonline.com/online/44/350x350/7318690042044.jpg",
+            "eco": 0,
+            "brand": "ICA",
+            "origin": "Sverige"
+        },
+        {
+            "ID": 4,
+            "name": "Högrevsfärs 500g 15%",
+            "size": {
+                "size": 500,
+                "unit": "gram",
+                "short": "g"
+            },
+            "Category": {
+                "mainCategory": "Kött, fågel & fisk",
+                "middleCategory": "Köttfärs",
+                "underCategory": "Nötfärs"
+            },
+            "keywords": ["Hamburgare", "Panbiff"],
+            "ingredients": "Förhållande mellan kollagen och köttprotein lägre än 15%. Fetthalt lägre än 15%.",
+            "imgsrc": "https://d8gl8b5vwf3oc.cloudfront.net/500x500/1/4/1404cda78e9873a24a357243d6afb07a.jpg",
+            "eco": 0,
+            "brand": "",
+            "origin": "Sverige"
+        },
+        {
+            "ID": 5,
+            "name": "Nötfärs 12% ECO Sverige",
+            "size": {
+                "size": 500,
+                "unit": "gram",
+                "short": "g"
+            },
+            "Category": {
+                "mainCategory": "Kött, fågel & fisk",
+                "middleCategory": "Köttfärs",
+                "underCategory": "Nötfärs"
+            },
+            "keywords": ["Nöt", "Krav"],
+            "ingredients": "Förhållande mellan kollagen och köttprotein lägre än 12%. Fetthalt lägre än 12%.",
+            "imgsrc": "https://d8gl8b5vwf3oc.cloudfront.net/500x500/2/b/2be18c8dfce35b3f49bf4c89e8c05d15.jpg",
+            "eco": 1,
+            "brand": "",
+            "origin": "Sverige"
+        },
+        {
+            "ID": 6,
+            "name": "Blandfärs 20% Sverige",
+            "size": {
+                "size": 500,
+                "unit": "gram",
+                "short": "g"
+            },
+            "Category": {
+                "mainCategory": "Kött, fågel & fisk",
+                "middleCategory": "Köttfärs",
+                "underCategory": "Blandfärs"
+            },
+            "keywords": ["Svensk", "Färs", "Tacos"],
+            "ingredients": "Nötkött (50%), Fläskkött (50%). Fetthalt lägre än 20%.",
+            "imgsrc": "https://d8gl8b5vwf3oc.cloudfront.net/500x500/4/d/4d2a444e926d8aaf812f35c6f957dcc0.jpg",
+            "eco": 0,
+            "brand": "",
+            "origin": "Sverige"
+        },
+        {
+            "ID": 7,
+            "name": "Isbergssallad",
+            "size": {
+                "size": 440,
+                "unit": "gram",
+                "short": "g"
+            },
+            "Category": {
+                "mainCategory": "Frukt & Grönt",
+                "middleCategory": "Grönsaker",
+                "underCategory": "Sallad"
+            },
+            "keywords": ["Tacos", "Sallad", "Hamburgare"],
+            "ingredients": "",
+            "imgsrc": "https://atgcdn-production.prod.vuitonline.com/online/00/350x350/2092406100000.jpg",
+            "eco": 0,
+            "brand": "",
+            "origin": "Spaninen"
+        },
+        {
+            "ID": 8,
+            "name": "KESO Cottage Cheese Naturell 4%",
+            "size": {
+                "size": 250,
+                "unit": "gram",
+                "short": "g"
+            },
+            "Category": {
+                "mainCategory": "Mejeri, ost & ägg",
+                "middleCategory": "Ost",
+                "underCategory": "Cottage Cheese"
+            },
+            "keywords": ["Keso", "Pålägg"],
+            "ingredients": "Pastöriserad mjölk och grädde, syrningskultur, salt, ystenzym.",
+            "imgsrc": "https://res.cloudinary.com/coopsverige/image/upload/fl_progressive,q_90,c_lpad,g_center,h_330,w_330/v1529975794/303045.jpg",
+            "eco": 0,
+            "brand": "Arla",
+            "origin": "Sverige"
+        },
+        {
+            "ID": 9,
+            "name": "Soft Tortilla Original",
+            "size": {
+                "size": 320,
+                "unit": "gram",
+                "short": "g"
+            },
+            "Category": {
+                "mainCategory": "Skafferi",
+                "middleCategory": "All världens mat",
+                "underCategory": "Tacos"
+            },
+            "keywords": ["Tacos", "Bröd", "Wrap"],
+            "ingredients": "VETEMJÖL (72%), vatten, rapsolja, fuktighetsbevarande medel (E422), salt, emulgeringsmedel (E471), bakpulver (natriumbikarbonat), syra (citronsyra), stabiliseringsmedel (E415), VETEGLUTEN.",
+            "imgsrc": "https://d2rfo6yapuixuu.cloudfront.net/h04/h05/8881218912286/07311310033125.jpg_1480085483422_master_axfood_400",
+            "eco": 0,
+            "brand": "Santa Maria",
+            "origin": "Tyskland"
+        },
+        {
+            "ID": 10,
+            "name": "Röd Paprika",
+            "size": {
+                "size": 180,
+                "unit": "gram",
+                "short": "g"
+            },
+            "Category": {
+                "mainCategory": "Frukt & Grönt",
+                "middleCategory": "Grönsaker",
+                "underCategory": "Paprika"
+            },
+            "keywords": ["Röd", "Paprika", "Grönsak"],
+            "ingredients": "",
+            "imgsrc": "https://assets.icanet.se/image/upload/b_white,e_sharpen:50,c_lpad,f_auto,h_350,q_auto,w_350/2092468800009.jpg",
+            "eco": 0,
+            "brand": "",
+            "origin": "Spaninen"
+        }
+    ]
+}
+}

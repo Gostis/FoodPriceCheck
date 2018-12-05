@@ -1,0 +1,77 @@
+{
+    "foodPrice": {
+      "name" : "test",
+      "products":
+        [{
+            "ID": 1,
+            "name": "Arla Mellanmjölk 1.5L 1.5%",
+            "ica": 10,
+            "willys": 9,
+            "hemköp": 11
+        },
+        {
+            "ID": 2,
+            "name": "Arla Mellanmjölk Ekologisk 1.5L 1.5%",
+            "ica": 10,
+            "willys": 9,
+            "hemköp": 11
+        },
+        {
+            "ID": 3,
+            "name": "Nötfärs 5% 500g ICA",
+            "ica": 10,
+            "willys": 9,
+            "hemköp": 11
+        },
+        {
+            "ID": 4,
+            "name": "Högrevsfärs 500g 15%",
+            "ica": 10,
+            "willys": 9,
+            "hemköp": 11
+        },
+        {
+            "ID": 5,
+            "name": "Nötfärs 12% ECO Sverige",
+            "ica": 10,
+            "willys": 9,
+            "hemköp": 11
+        },
+        {
+            "ID": 6,
+            "name": "Blandfärs 20% Sverige",
+            "ica": 10,
+            "willys": 9,
+            "hemköp": 11
+        },
+        {
+            "ID": 7,
+            "name": "Isbergssallad",
+            "ica": 10,
+            "willys": 9,
+            "hemköp": 11
+        },
+        {
+            "ID": 8,
+            "name": "KESO Cottage Cheese Naturell 4%",
+            "ica": 10,
+            "willys": 9,
+            "hemköp": 11
+        },
+        {
+            "ID": 9,
+            "name": "Soft Tortilla Original",
+            "ica": 10,
+            "willys": 9,
+            "hemköp": 11
+        },
+        {
+            "ID": 10,
+            "name": "Röd Paprika",
+            "ica": 10,
+            "willys": 9,
+            "hemköp": 11
+        }
+    ]
+}
+}
